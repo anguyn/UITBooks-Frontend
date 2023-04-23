@@ -69,5 +69,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://uitbooks-be.vercel.app/"
+  "proxy": "https://uitbooks-app.herokuapp.com/"
 }
